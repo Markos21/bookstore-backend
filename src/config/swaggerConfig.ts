@@ -10,8 +10,8 @@ const options: swaggerJsdoc.Options = {
     },
     servers: [
       {
-        url: 'http://localhost:3000/api',
-        description: 'Development server',
+        url: 'https://bookstore-api-clxp.onrender.com/api',
+        description: 'Live server',
       },
     ],
   },
